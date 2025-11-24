@@ -1,6 +1,6 @@
-# Somika Enterprises Portal
+# Swades Enterprises Portal
 
-Somika Enterprises Portal is a menu‑driven Python console application that to view GST statistics, generate a GST invoice, celebrate their anniversary lucky Prize Winner form their customers list and add basic sales records.
+Swades Enterprises Portal is a menu‑driven Python console application that to view GST statistics, generate a GST invoice, celebrate their anniversary lucky Prize Winner form their customers list and add basic sales records.
 
 # Features
 
@@ -78,3 +78,4 @@ After running the script, the portal header is displayed and you see the dashboa
       Krishna Maheshwari
       CSE(AI and ML) Student
       VIT Bhopal 
+
